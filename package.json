@@ -1,0 +1,17 @@
+{
+    "name": "PlotBestFit",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "Main.js",
+    "scripts": {
+        "start": "node src/Main.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "js-combinatorics": "^1.5.4",
+        "systeminformation": "^5.9.4"
+    }
+}
